@@ -7,7 +7,7 @@ Add extra features to onlyfans-downloader.com and download even more.
 1. Download this extension as a [ZIP file from GitHub](https://github.com/xinghe186/SoundClound-to-MP3-Downloader/archive/refs/heads/main.zip)
 2. Unzip the file and you should have a folder named `chrome-extension-main`
 3. Visit the URL `chrome://extensions` and enable `Developer mode`
-4. Drag and drop the `chrome-extension-main` folder anywhere onto the extensions page to install it (do not delete the folder afterwards)
+4. Drag and drop the `SoundClound-to-MP3-Downloader-main` folder anywhere onto the extensions page to install it (do not delete the folder afterwards)
 
 ### :thinking: Why not from the Chrome Web Store?
 
@@ -15,7 +15,7 @@ This extension has been in the Chrome Web Store for almost 4 years and has been 
 
 ### :thinking: Is it safe?
 
-We have open-sourced the Onlyfans-downloader extension and anyone can take a look at the source code for full transparency.
+We have open-sourced the SoundClound-to-MP3-Downloader extension and anyone can take a look at the source code for full transparency.
 
 ### MIT License
 
